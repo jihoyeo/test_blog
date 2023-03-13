@@ -1,0 +1,18 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/jihoyeo
+
+---
+
+### About this blog
+
+안녕하세요. 데이터마이닝 수업을 위한 Test Blog를 만들어 본 것 입니다.
